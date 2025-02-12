@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered solutions, including Machine Learning, NLP, and Computer Vision projects.  <br>🤝 I’m looking to collaborate on AI-driven automation, predictive analytics, and LLM-based chatbots.  <br>💡 I’m looking for help with advanced AI model optimization and deployment strategies.  <br>🌱 I’m currently learning Reinforcement Learning and Time Series Analysis.  <br>💬 Ask me about Machine Learning, Deep Learning, Computer Vision, and AI for Business.  <br>⚡ Fun fact: I once pitched an AI startup alone to investors and won a regional tech startup competition!  <br>
+🔭 I’m currently working on AI-powered solutions, including Machine Learning, NLP, and Computer Vision projects.  <br>🤝 I’m looking to collaborate on AI-driven automation, predictive analytics, and LLM-based chatbots.  <br>💡 I’m looking for help with advanced AI model optimization and deployment strategies.  <br>🌱 I’m currently learning Reinforcement Learning and Time Series Analysis.  <br>💬 Ask me about Machine Learning, Deep Learning, Computer Vision, and AI for Business.  <br>⚡ Fun fact: Worked at a startup as an AI Engineer, where I wasn’t just coding—I was also pitching to investors and answering technical questions, sometimes flying solo in investor meetings!  <br>
 
 
 ## 🌐 Socials:
